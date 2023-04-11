@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sumitbatwani
-- 👀 I’m interested in REACT JS, TYPESCRIPT, JAVASCRIPT, OPEN SOURCE
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in REACT JS, TYPESCRIPT, JAVASCRIPT, JAVA, PYTHON and OPEN SOURCE
 - 💞️ I’m looking to collaborate on OPEN SOURCE projects
 - 📫 Mail at sumitbatwani@gmail.com to reach me
 
